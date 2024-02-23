@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\obj\Debug\Average Calculator.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\obj\Debug\Average_Calculator.Form1.resources
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\obj\Debug\Average_Calculator.Properties.Resources.resources
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\obj\Debug\Average Calculator.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\obj\Debug\Average Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\bin\Debug\Average Calculator.exe.config
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\bin\Debug\Average Calculator.exe
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\bin\Debug\Average Calculator.pdb
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\obj\Debug\Average Calculator.exe
+C:\Users\Usuário\source\repos\Average Calculator\Average Calculator\obj\Debug\Average Calculator.pdb
